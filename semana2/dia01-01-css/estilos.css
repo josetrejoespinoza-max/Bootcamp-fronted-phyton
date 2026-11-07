@@ -1,3 +1,13 @@
-body {  background-color: brown;
+body {  background-color: rgb(239, 251, 238);
+
+}
+p {
+color: blue;
+background-color: chartreuse;
+font-size: 20px;
+}
+h1{
+    background-color: chartreuse;
+    font-size: 50px;
 
 }
